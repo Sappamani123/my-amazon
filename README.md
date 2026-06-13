@@ -7,7 +7,7 @@ A fully structured Amazon homepage clone built using HTML5 and CSS3, showcasing 
 
 🌐 Live Demo
 
- 🔗https://sappamani123.github.io/my-amazon/
+ 🔗https://sappamani123.github.io/amazon-clone-ui/
 
 🎯 Project Objective
 
