@@ -228,7 +228,7 @@ nav a{
 .hero-i img{
     height: 100%;
     min-width: 100%;
-    scroll-snap-align: start;
+    scroll-snap-align:start;
 }
 .hero-i::-webkit-scrollbar{
     display: none;
@@ -571,7 +571,7 @@ button:hover{
 }
 .panel-set{
     /*height: 274.2px;*/
-    margin: 0px 135.2px;
+    margin: 0px 200px;
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
@@ -634,4 +634,11 @@ button:hover{
     display: flex;
     font-size: 12px;
     justify-content: center;
+}
+.panel6{
+    height: 60px;
+    background-color: #131a22;
+    color: #dddddd;
+    padding: 10px 0px;
+
 }
